@@ -1,5 +1,18 @@
+<<<<<<< HEAD
 body {
   background-color: aqua;
   text-align: center;
   color: peachpuff;
 }
+=======
+body {
+  background-color: aqua;
+  text-align: center;
+  color: deeppink;
+}
+
+.cabezera {
+  height: 70px;
+  background-color: chartreuse;
+}
+>>>>>>> cabezera
