@@ -3,3 +3,8 @@ body {
   text-align: center;
   color: deeppink;
 }
+
+.cabezera {
+  height: 70px;
+  background-color: chartreuse;
+}
